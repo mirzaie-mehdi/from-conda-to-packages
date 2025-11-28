@@ -2,14 +2,16 @@
 version: 1
 project:
   id: c02ca4c7-43b5-4a6d-9f03-91eb38388bde
-  # title: From Conda to Packages
-  # description: From Conda to Packages
+   title: From Conda to Packages
+   description: From Conda to Packages
   # keywords: []
-  # authors: Mehdi Mirzaie
-  # github: mirzaie-mehdi
+   authors: Mehdi Mirzaie
+   github: mirzaie-mehdi
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 site:
   template: book-theme
+  title: From Conda to Packages
+  base: /from-conda-to-packages
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
