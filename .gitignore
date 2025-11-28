@@ -1,0 +1,15 @@
+# Jupyter Book build outputs
+_build/
+_site/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS junk files
+.DS_Store
+_build/
